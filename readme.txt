@@ -3,3 +3,4 @@ Git is free software distributed under the GPL
 
 本次新增
 Git tracks changes. of files
+My stupid boss still prefers SVN.
