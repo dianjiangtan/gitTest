@@ -2,3 +2,4 @@ Git is a distributed version control system.
 Git is free software distributed under the GPL
 
 本次新增
+Git tracks changes.
