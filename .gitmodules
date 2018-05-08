@@ -1,3 +1,0 @@
-[submodule "src/components/sub-module-test"]
-	path = src/components/sub-module-test
-	url = git@github.com:dianjiangtan/sub-module-test.git
